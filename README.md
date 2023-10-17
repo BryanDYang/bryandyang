@@ -4,7 +4,7 @@
 
  - 🔭  I'm Bryan, a Data Science student, Mathematics & Statistics enthusiast and lifelong learner.
  - 🌱  Learning data science, mathematics, financial modeling, and optimization.
- - 🚀  Helped scale [Panther Algo Trading](https://github.com/PantherAlgoTrading), and [Panther ML](https://github.com/PantherML).
+ - 🚀  Helped scale...
  - 🌟  Contribute to and help maintain the [New Grad Positions for 2024](https://github.com/SimplifyJobs/New-Grad-Positions).
  
  <p align="left">
