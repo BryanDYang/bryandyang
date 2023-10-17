@@ -5,7 +5,7 @@
  - 🔭  I'm Bryan, a Data Science student, Mathematics & Statistics enthusiast and lifelong learner.
  - 🌱  Learning data science, mathematics, financial modeling, and optimization.
  - 🚀  Helped scale [Panther Algo Trading](https://github.com/PantherAlgoTrading), and [Panther ML](https://github.com/PantherML).
- - 🌟  Contribute to and help maintain the [New Grad Positions for 2024][https://github.com/SimplifyJobs/New-Grad-Positions].
+ - 🌟  Contribute to and help maintain the [New Grad Positions for 2024](https://github.com/SimplifyJobs/New-Grad-Positions).
  
  <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=bryandyang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bryan's GitHub Stats" width=400 />
