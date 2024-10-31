@@ -3,7 +3,7 @@
 </div>
 
  - 🔭  I'm Bryan, a Data Science student, Mathematics & Statistics enthusiast and lifelong learner.
- - 🌱  Learning data science, mathematics, financial modeling, and optimization.
+ - 🌱  Learning software engineering, data science, mathematics, modeling, and optimization.
  - 🚀  Helped scale...
  - 🌟  Contribute to and help maintain the [New Grad Positions for 2024](https://github.com/SimplifyJobs/New-Grad-Positions).
  
