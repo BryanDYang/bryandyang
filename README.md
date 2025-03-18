@@ -3,7 +3,7 @@
 </div>
 
  - 🔭  I'm Bryan, an Artificial Intelligence major student, Mathematics & Statistics enthusiast and lifelong learner.
- - 🌱  Learning machine learning, aritificial intelligence, computer systems, mathematics, modeling, and optimization.
+ - 🌱  Learning machine learning, artificial intelligence, computer systems, mathematics, modeling, and optimization.
  - 🚀  Helped scale...
  - 🌟  Contribute to and help maintain the [New Grad Positions for 2025](https://github.com/SimplifyJobs/New-Grad-Positions).
  
